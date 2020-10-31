@@ -1399,6 +1399,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    FingerprintExtensionService \    
+    FingerprintExtensionService \
     vendor.qti.gnss@3.0-service \
     WfdCommon
