@@ -698,6 +698,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tulip/proprietary/lib/libwfduibcsinkinterface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsinkinterface.so \
     vendor/xiaomi/tulip/proprietary/lib/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsrc.so \
     vendor/xiaomi/tulip/proprietary/lib/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsrcinterface.so \
+    vendor/xiaomi/tulip/proprietary/lib/libbarhopper.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libbarhopper.so \
+    vendor/xiaomi/tulip/proprietary/lib/libsketchology_native.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsketchology_native.so \
+    vendor/xiaomi/tulip/proprietary/lib64/libbarhopper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libbarhopper.so \
+    vendor/xiaomi/tulip/proprietary/lib64/libsketchology_native.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsketchology_native.so \
     vendor/xiaomi/tulip/proprietary/lib64/fm_helium.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/fm_helium.so \
     vendor/xiaomi/tulip/proprietary/lib64/libadsprpc_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libadsprpc_system.so \
     vendor/xiaomi/tulip/proprietary/lib64/libbtconfigstore.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libbtconfigstore.so \
